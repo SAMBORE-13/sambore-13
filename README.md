@@ -3,7 +3,7 @@
 
 ### Health Data Science Student | Data Science | Machine Learning | Biostatistics
 
-Master's student in **Health Data Science ** at the University of Strasbourg, France.
+Master's student in Health Data Science at the University of Strasbourg, France.
 
 I am interested in using data science, statistical methods and artificial intelligence to address healthcare challenges.
 
